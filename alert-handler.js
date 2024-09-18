@@ -1,3 +1,5 @@
+// License: Mozilla Public License
+// All credits for: [2Math0](https://github.com/2Math0)
 // alert-handler.js
 
 (function() {
