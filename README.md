@@ -1,6 +1,7 @@
 # ReadMe
 
 ### Flutter Projects
+all actions inside your web folder
 - add this line in head tag
  **Include the Script in Your index.html**
 
